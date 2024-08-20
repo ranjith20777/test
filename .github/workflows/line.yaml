@@ -1,2 +1,2 @@
 FROM: ubuntu
-run: ubuntu-latest
+run: echo hello,world!
