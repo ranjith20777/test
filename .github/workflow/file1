@@ -1,0 +1,6 @@
+added a data line
+
+FROM: UBUNTU
+DIR: test/.github/workflow/file1
+RUN: ubuntu-latest
+
